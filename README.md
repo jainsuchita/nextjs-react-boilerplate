@@ -1,6 +1,4 @@
-Repository created for the Typescript with node and Express.Js
-
-Minimal boilerplate to start a Express.js project using TypeScript
+Follow instructions given in setup-instructions.md file to setup the project.
 
 ## Quick Start
 
