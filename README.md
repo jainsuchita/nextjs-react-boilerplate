@@ -9,7 +9,7 @@ Follow instructions given in setup.md file
 npm install
 ```
 
-# Run the app in developement mode
+# Run the app in development mode
 ```
 npm run dev
 ``` 
