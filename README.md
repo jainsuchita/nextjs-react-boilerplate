@@ -1,5 +1,7 @@
 Basic Nextjs Project 
 
+Follow instructions given in setup.md file
+
 ## Quick Start
 
 # To install dependencies
